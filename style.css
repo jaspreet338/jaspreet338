@@ -1,0 +1,40 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+ height: 100%;
+      }
+header img {
+  text-align: right;
+  margin-left: 40px;
+  margin-top: -10px;
+  width: 80%;
+  height: 50%;
+          }
+
+#main{
+  margin-top: 50px;
+    }
+@media screen and (max-width: 1000px) 
+{
+   a {
+      background-color: lightgray;
+     }
+  
+    iframe {
+            border-style: solid;
+            color: red;
+           }
+  
+ }
+/* don't edit this */
+.jest-lite-report__status--pass 
+   {
+    background: var(--color-pass);
+   }
+.jest-lite-report__errors { display:none }
