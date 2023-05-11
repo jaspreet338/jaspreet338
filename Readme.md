@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaspreer Kaur</h1>
 <h3 align="center">An experienced Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **Scrum framework**
+- 🌱 I’m currently learning **CYBER SECURITY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
