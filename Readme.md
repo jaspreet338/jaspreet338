@@ -2,6 +2,7 @@
 <h3 align="center">An experienced Full-Stack developer</h3>
 
 - 🌱 I’m currently learning **CYBER SECURITY**
+- 🌱 I’m currently practicing **TAILWIND CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
